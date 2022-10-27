@@ -10,8 +10,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andrew&20Brooks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-brooks-b1549529/)](https://www.linkedin.com/in/andrew-brooks-b1549529/)
-[![Medium Badge](https://img.shields.io/badge/Andrew&20Brooks-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@jbrooks1040)](https://medium.com/@jbrooks1040)
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Brooks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-brooks-b1549529/)](https://www.linkedin.com/in/andrew-brooks-b1549529/)
+[![Medium Badge](https://img.shields.io/badge/Andrew%20Brooks-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@jbrooks1040)](https://medium.com/@jbrooks1040)
 [![Gmail Badge](https://img.shields.io/badge/-jbrooks1040@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbrooks1040@gmail.com)](mailto:jbrooks1040@gmail.com
 
 ## ⚡ Technologies
