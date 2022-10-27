@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-My name is Andrew Brooks, I work and live in Warner Robins, GA for Booz Allen Hamilton. I have been a System Administrator for the past 5 years and wanting to expand my knowledge on AWS.https://github.com/Level-Up-In-Tech/profilecustomization.git
+My name is Andrew Brooks. I have been a System Administrator for the past 5 years and wanting to expand my knowledge on AWS.
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/andrew-brooks-b1549529/)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@jbrooks1040)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/andrew-brooks-b1549529/
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)https://medium.com/@jbrooks1040
 
 ## ⚡ Technologies
 
@@ -21,8 +21,6 @@ Find out more about me & feel free to connect with me here:
 
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mrfstop&count_private=true&show_icons=true&include_all_commits=true)
 
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=mrfstop%2Fmrfstop&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=mrfstop%2Fmrfstop)
